@@ -1,0 +1,20 @@
+.indent-h2 {
+  color: red;
+}
+
+.p-welcome {
+
+}
+
+div {
+  width: 300px;
+  height: 200px;
+  background-color: red;
+}
+P {
+  color: green;
+}
+
+.indent-intro p {
+  color: pink;
+}
